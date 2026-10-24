@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+gaps.csv
+run.txt
+.DS_Store
